@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&fontColor=E4239D"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110"/>
 
 ## Oi, eu sou a Lara Cunha!
 

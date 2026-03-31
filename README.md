@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com/demo/?color=CB76F7&lines=Oi%2C+meu+nome+%C3%A9+Lara!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CB76F7&width=435&lines=Oi%2C+meu+nome+%C3%A9+Lara!" alt="Typing SVG"/>
 </div>
 
 <div style="display: inline_block"><br>

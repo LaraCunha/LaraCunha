@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110"/>
 
-## Oi, eu sou a Lara Cunha!
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com/demo/?color=CB76F7&lines=Oi%2C+meu+nome+%C3%A9+Lara!" alt="Typing SVG"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
